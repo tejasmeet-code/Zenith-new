@@ -1,0 +1,6 @@
+{
+  "name": "Zenith Discord Bot & Control Suite",
+  "description": "Production-grade Discord bot suite featuring 32+ modules (24/7 Music, Antinuke, Automod, Tickets, Staff Hierarchy & Quotas, StatBot Analytics, Modmail, Custom Discord Emojis, and HeavenCloud ready architecture).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
